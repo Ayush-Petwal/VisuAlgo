@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VisuAlgo : Pathfinding Visualizer
 
 Welcome to VisuAlgo ! 
